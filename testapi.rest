@@ -1,0 +1,16 @@
+
+
+
+
+POST http://localhost:3090/signin
+Content-Type: application/json
+
+{
+  "email":"testingauth@mail.net",
+  "password":"testpas"
+}
+
+
+ 
+ 
+
